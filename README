@@ -1,2 +1,2 @@
-LSTM AND GRU
+we’ll build a Recurrent Neural Network (RNN),LSTM and GRU models  in PyTorch that will classify people’s names by their languages.
 
